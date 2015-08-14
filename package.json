@@ -1,0 +1,14 @@
+{
+  "name": "easy-mssql",
+  "version": "0.0.0",
+  "description": "Wrapper for mssql npm package that makes it easy to use.",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamal Osman <jmlsmn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^2.1.8"
+  }
+}
